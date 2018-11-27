@@ -1,2 +1,2 @@
-# ModSoftDev
-Modern Software Development Apps
+# SchoolApps
+Curriculum-Mandated and Need-Based Apps from School
