@@ -1,0 +1,10 @@
+C:\Users\jeffrey.t.hanson\Desktop\July11\EmplApp\EmplApp\bin\Debug\EmplApp.exe.config
+C:\Users\jeffrey.t.hanson\Desktop\July11\EmplApp\EmplApp\bin\Debug\EmplApp.exe
+C:\Users\jeffrey.t.hanson\Desktop\July11\EmplApp\EmplApp\bin\Debug\EmplApp.pdb
+C:\Users\jeffrey.t.hanson\Desktop\July11\EmplApp\EmplApp\obj\Debug\EmplApp.csprojResolveAssemblyReference.cache
+C:\Users\jeffrey.t.hanson\Desktop\July11\EmplApp\EmplApp\obj\Debug\EmplApp.Form1.resources
+C:\Users\jeffrey.t.hanson\Desktop\July11\EmplApp\EmplApp\obj\Debug\EmplApp.Form2.resources
+C:\Users\jeffrey.t.hanson\Desktop\July11\EmplApp\EmplApp\obj\Debug\EmplApp.Properties.Resources.resources
+C:\Users\jeffrey.t.hanson\Desktop\July11\EmplApp\EmplApp\obj\Debug\EmplApp.csproj.GenerateResource.Cache
+C:\Users\jeffrey.t.hanson\Desktop\July11\EmplApp\EmplApp\obj\Debug\EmplApp.exe
+C:\Users\jeffrey.t.hanson\Desktop\July11\EmplApp\EmplApp\obj\Debug\EmplApp.pdb
